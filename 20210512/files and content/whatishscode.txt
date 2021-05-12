@@ -1,0 +1,21 @@
+Ava here from Shopify.
+
+ 
+
+The HS tariff code is the harmonized system code. If you want to ship your products internationally, you would need to enter these codes. These codes provide customs with information so that correct tariffs can be applied to the order. You can find the HS code for your product by searching using a keyword in the HS code field of the product details page. Learn more about HS codes from the World Customs Organisation.
+
+ 
+
+To find HS codes for your products, you can type the products into the search bar here! You can add these to new products as well as edit existing products. Edits can be made using the bulk editor as well. Customs information can also be edited or added when creating shipping labels.
+
+ 
+
+Australia uses an eight-digit code to classify goods for export. The first six digits align with the international classification and the last two digits are specific to Australian exports. At Shopify, we ask that you only use the first 6 digits going forward, because that is the global standard.
+
+ 
+
+Are you based in Australia and exporting good out of the country, or are you based somewhere else and are sending goods into the country?
+
+ 
+
+Let me know how you get on!
